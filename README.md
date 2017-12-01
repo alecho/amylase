@@ -1,6 +1,6 @@
 # Amylase
 
-**TODO: Add description**
+Helpful functions for brewing.
 
 ## Installation
 
